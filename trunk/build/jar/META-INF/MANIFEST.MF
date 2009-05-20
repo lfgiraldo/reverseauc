@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 10.0-b23 (Sun Microsystems Inc.)
+Class-Path: activation.jar commons-codec-1.3.jar commons-discovery-0.2
+ .jar commons-httpclient-3.0.1.jar commons-logging-1.0.4.jar jaxrpc.ja
+ r log4j-1.2.8.jar mailapi.jar paypal_base.jar saaj.jar xstream-1.1.3.
+ jar xercesImpl.jar 
+
